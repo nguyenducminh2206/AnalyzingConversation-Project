@@ -1,4 +1,4 @@
-# Project-analyzing-conversation
+# AnalyzingConversation-Project
  Project work: Analyzing online conversations by statistical methods
  Analyzing online conversations by statistical methods is an important way to study societal trends.
  In this project work we will study a particular large text data set using the Python language and its
